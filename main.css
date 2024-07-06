@@ -21,6 +21,10 @@ color: #FFF5B7;
 text-decoration: none;
 }
 
+a:hover {
+  text-shadow: 1px 1px 5px #feffdc;
+}
+
 img {
 display: block;
 margin: 0px auto;
