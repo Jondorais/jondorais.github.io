@@ -15,7 +15,9 @@ body {
 h1 {
   padding: 20px 0px 10px 0px;
 }
-
+p {
+    text-align: left;
+}
 a {
 color: #FFF5B7;
 text-decoration: none;
