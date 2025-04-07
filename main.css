@@ -99,10 +99,10 @@ div.a {
   top: 39%;
   width: auto;
   margin-top: 2px;
-  padding: 72px;
+  padding: 75px;
   color: white;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 42px;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
@@ -112,14 +112,14 @@ div.a {
 .next {
   float: right;
   right: 0;
-  border-radius: 3px 0 0 3px;
+  border-radius: 4px 0 0 4px;
 }
   
 /* Position the "prev button" to the left */
 .prev {
   float: left;
   left: 0;
-  border-radius: 3px 0 0 3px;
+  border-radius: 4px 0 0 4px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -150,8 +150,8 @@ div.a {
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 12px;
-  width: 12px;
+  height: 10px;
+  width: 10px;
   margin: 0 3px;
   background-color: #bbb;
   border-radius: 20%;
