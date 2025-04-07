@@ -50,7 +50,7 @@ div.a {
 .column {
   float: left;
   width: 25%;
-  padding: 2px;
+  padding: 22px;
 }
 
 /* Clear floats after image containers */
