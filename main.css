@@ -49,7 +49,7 @@ div.a {
   /* Three image containers (use 33% for three, and 50% for two, etc) */
 .column {
   float: left;
-  width: 10%;
+  width: 25%;
   padding: 2px;
 }
 
