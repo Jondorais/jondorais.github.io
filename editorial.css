@@ -65,6 +65,10 @@ div.a {
   display: table;
 }
 
+.rounded-image {
+  border-radius: 20px;
+}
+
 /* Responsive layout - makes the three columns stack next to other instead of on top of each other */
 @media screen and (max-width: 1200) {
   .column {
