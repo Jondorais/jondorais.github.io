@@ -8,7 +8,10 @@ body {
   text-color: #010522;
   background-image: url('Trees-Blurred.png');
   background-color: #7788b1;
+  background-attachment: fixed;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 100%
 }
 
@@ -37,17 +40,6 @@ a:hover {
 img {
 display: block;
 margin: 0px auto;
-}
-
-.background-fixed {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url('Trees-Blurred.png');
-  background-size: cover;
-  z-index: -1;
 }
 
 .portfolio-item {
