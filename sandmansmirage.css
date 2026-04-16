@@ -48,7 +48,6 @@ margin-top: 60px;
 padding: 40px;
 background-color: #4988e4;
 border-radius: 20px 20px;
-opacity: 0.8;
 }
 
 .email-item {
@@ -56,6 +55,7 @@ margin-top: 60px;
 padding: 40px;
 background-color: #ec7add;
 border-radius: 20px 20px;
+opacity: 0.8;
 }
 
 div.a {
