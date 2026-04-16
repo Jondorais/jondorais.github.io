@@ -29,6 +29,7 @@ h2 {
 p {
     text-align: left;
 }
+
 a {
 color: #42007f;
 text-decoration: none;
@@ -52,6 +53,7 @@ border-radius: 20px 20px;
 
 .email-item {
 margin-top: 20px;
+padding: 15px;
 background-color: #ec7add;
 border-radius: 20px 20px;
 opacity: 0.8;
