@@ -82,10 +82,10 @@ div.a {
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 39%;
+  top: 49%;
   width: auto;
   margin-top: 2px;
-  padding: 85px;
+  padding: 5px;
   color: white;
   font-weight: bold;
   font-size: 22px;
