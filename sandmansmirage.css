@@ -1,0 +1,56 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Calibri";
+  line-height: 1.5;
+  padding: 15px 10px;
+  text-align: center;
+  text-color: #010522;
+  background-image: url('Desert_blurred.png');
+  background-color: #99a1a9;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%
+}
+
+h1 {
+  font-size: 45px;
+  padding: 5px 0px 0px 0px;
+  font-family: "Courier New";
+}
+
+h2 {
+  padding: 0px 0px 20px 0px;
+  font-family: "Courier New";
+}
+
+p {
+    text-align: left;
+}
+a {
+color: #4281dc;
+text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 1px 1px 5px #feffdc;
+}
+
+img {
+display: block;
+margin: 0px auto;
+}
+
+.portfolio-item {
+margin-top: 60px;
+padding: 40px;
+background-color: #e4a27e;
+border-radius: 20px 20px;
+opacity: 0.8;
+}
+
+div.a {
+  text-align: left;
+}
