@@ -42,7 +42,7 @@ text-decoration: none;
 
 a:hover {
   text-shadow: 1px 1px 5px #feffdc;
-  font-size: 19px;
+  font-size: 25px;
 }
 
 img {
@@ -86,10 +86,10 @@ div.a {
 .prev, .next {
   cursor: pointer;
   position: absolute;
-  top: 49%;
+  top: 90%;
   width: auto;
   margin-top: 2px;
-  padding: 5px;
+  padding: 110px;
   color: white;
   font-weight: bold;
   font-size: 45px;
@@ -114,7 +114,7 @@ div.a {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.3);
 }
 
 /* Caption text */
@@ -163,3 +163,4 @@ div.a {
   from {opacity: .2}
   to {opacity: 1}
 }
+
