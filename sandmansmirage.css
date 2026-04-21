@@ -6,7 +6,7 @@ body {
   line-height: 1.5;
   padding: 15px 10px;
   text-align: center;
-  text-color: #010522;
+  text-color: #42007f;
   background-image: url('Desert_blurred.png');
   background-color: #FFD087;
   background-attachment: fixed;
@@ -40,7 +40,7 @@ p {
 }
 
 a {
-color: #42007f;
+color: #010522;
 text-decoration: none;
 }
 
