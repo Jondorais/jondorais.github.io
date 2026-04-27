@@ -6,9 +6,12 @@ body {
   padding: 30px 20px;
   text-align: center;
   text-color: #010522;
-  background-color: #62A5DE;
-  background-image: url("redwoods.png");
+  background-image: url('RR_MOODBOARD_SPACE_PYandJD.png');
+  background-color: #FFD087;
+  background-attachment: fixed;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 100%
 }
 
