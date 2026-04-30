@@ -29,10 +29,12 @@ h2 {
 
 h3 {
   font-family: "Calibri";
+  color: #010522;
 }
 
 h4 {
-color: #F5E8BC;
+  font-family: "Calibri";
+  color: #010522;
 }
 
 p {
@@ -40,7 +42,7 @@ p {
 }
 
 a {
-color: #010522;
+color: #F5E8BC;
 text-decoration: none;
 }
 
