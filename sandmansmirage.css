@@ -145,9 +145,9 @@ div.a {
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 10px;
-  width: 10px;
-  margin: 0 3px;
+  height: 12px;
+  width: 12px;
+  margin: 0 5px;
   background-color: #bbb;
   border-radius: 20%;
   display: inline-block;
@@ -155,7 +155,7 @@ div.a {
 }
 
 .active, .dot:hover {
-  background-color: #56EBF4;
+  background-color: #FFBF00;
 }
 
 /* Fading animation */
