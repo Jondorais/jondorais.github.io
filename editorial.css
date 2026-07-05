@@ -74,6 +74,7 @@ div.a {
 
 .rounded-image {
   border-radius: 12px;
+  filter: drop-shadow(8px 8px 10px rgba(0, 0, 0, 0.5));
 }
 
 /* Responsive layout - makes the three columns stack next to other instead of on top of each other */
