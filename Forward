@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jonny Dorais' Book Blog - The Weirdos</title>
+    <link rel="stylesheet" type="text/css" href="forward.css">
+  </head>
+  
+  <body>
+    <header>
+        <h1><b>THE WEIRDOS</b></h1>
+    </header>
+    <div class="portfolio-item"> 
+      <p float="left">
+        <h2><b>Forward- Short Story</b></h2>
+         <br>
+          <object data="Forward.pdf" width="92%" height="1000px" style="border: "none" allowfullscreen>
+          <p>This browser does not support PDFs: <a href="Forward.pdf"> Please download the file to view it here</a></p>
+          </object>
+        <h2><a href="https://player.vimeo.com/video/672218669?h=06062c5a6b">See the Forward Short Film</a></h2>
+      </div>
+   
+    <br>
+    <br>
+    <br>
+    
+    <div class="portfolio-item"> 
+      <h3><a href="writing.html">Back to Writing Page</a></h3>
+      <h3><a href="index.html">Home Page</a></h3>
+      <h3><a href="contact.html">Contact Info</a></h3>
+      <h3><a href="wackytowns.html">See Wacky Towns</a></h3>
+      <h3><a href="https://critterroll.github.io/cards/randyrejects.html">See Randy Rejects</a></h3>
+    </div>
+  </body>
+</html>
